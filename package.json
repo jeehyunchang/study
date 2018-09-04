@@ -1,4 +1,7 @@
 {
+  "engines": {
+    "node": "8.9.1"
+  },
   "main": "app.js",
   "scripts": {
     "start": "node app.js"
