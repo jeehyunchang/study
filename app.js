@@ -8,6 +8,4 @@ var http = require('http');
 
 	response.end();
 
-}).listen(3000);
-
-console.log('Listening on port 3000...');
+}).listen(80);
