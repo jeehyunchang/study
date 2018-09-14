@@ -1,4 +1,6 @@
 {
     "GoVersion": "go1.9",
-    "Packages":[]
+    "Packages":[
+        "./..."
+    ]
 }
