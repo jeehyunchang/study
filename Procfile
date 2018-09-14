@@ -1,1 +1,1 @@
-web: main.go
+web: $PORT=5000
