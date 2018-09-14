@@ -1,1 +1,1 @@
-web: helloWorld
+web: demo-app-make
