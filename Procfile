@@ -1,1 +1,1 @@
-web: demo-app-make
+web: main
