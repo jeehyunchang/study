@@ -1,8 +1,3 @@
 {
-    "ImportPath": "github.com/jeehyunchang/study/src/helloworld",
     "GoVersion": "go1.9",
-    "Packages": [
-        "./…"
-    ],
-    "Deps": []
 }
